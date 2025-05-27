@@ -1,2 +1,7 @@
-# Create Portfolio Design using Bootstrap v5.3 and CSS
-For Practice purpose only.
+# Create Basic Portfolio Design 
+
+# Using
+   - Bootstrap v5.3  
+   - CSS
+
+
